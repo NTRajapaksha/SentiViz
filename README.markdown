@@ -127,9 +127,6 @@ This project was a collaborative effort by two team members as part of a group a
   - Connected the frontend to the backend using the fetch API.
 - **Files**: `index.html`, `styles.css`, `script.js`
 
-### Collaboration
-Both team members worked together on debugging, testing, and ensuring seamless integration between the frontend and backend. The project was managed using GitHub, with commits reflecting individual contributions.
-
 ## Additional Information
 - **Troubleshooting**:
   - If you see a "tokenizer not defined" error, verify that the `ModelManager` is properly initialized.
