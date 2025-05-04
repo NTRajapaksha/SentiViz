@@ -2,6 +2,9 @@
 
 SentiViz is an interactive web-based dashboard designed for sentiment analysis, utilizing advanced natural language processing (NLP) techniques to evaluate the emotional tone of text. This project combines deep learning and rule-based methods to deliver real-time insights, enhanced by engaging visualizations, making it a powerful tool for understanding sentiment in textual data.
 
+You can find a **demo video** here: 
+https://drive.google.com/file/d/1ba-8gDa0smQjsGFuneoYRLlGr2U1GveQ/view?usp=sharing
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
